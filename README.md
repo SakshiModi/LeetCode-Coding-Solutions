@@ -10,5 +10,4 @@ I tried to organize my solutions in different categories so that it would be eas
 
 Thanks for taking time to visit my github profile. Any feedbacks are always welcome.
 
-Best Regards,
-Sakshi
+Best Regards,<br>Sakshi
