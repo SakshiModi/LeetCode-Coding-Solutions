@@ -53,6 +53,15 @@ Here is a mapping to search your problem easily in the folder -
 	
 **Hard**<br>
 	4_median-of-two-sorted-arrays<br>
+
+## **Database**<br>
+
+**Easy**<br>
+	1378_replace-employee-id-with-the-unique-identifier<br>
+	1683_invalid-tweets<br>
+	1693_daily-leads-and-partners<br>
+	1741_find-total-time-spent-by-each-employee<br>
+	1757_recyclable-and-low-fat-products<br>
 	
 ## **LinkedList**<br>
 
@@ -80,6 +89,7 @@ Here is a mapping to search your problem easily in the folder -
 	6_zigzag-conversion<br>
 	8_string-to-integer-atoi<br>
 	17_letter-combinations-of-a-phone-number<br>
+	
 
 Thanks for taking time to visit my github profile. Any feedbacks are always welcome.
 
