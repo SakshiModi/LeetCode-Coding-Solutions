@@ -1,0 +1,1 @@
+select employee_id,(select count(employee_id) from Employee as emp1 where emp1.team_id=emp2.team_id) as team_size from Employee as emp2;

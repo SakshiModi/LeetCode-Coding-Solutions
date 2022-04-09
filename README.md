@@ -57,6 +57,7 @@ Here is a mapping to search your problem easily in the folder -
 ## **Database**<br>
 
 **Easy**<br>
+	1303_find-the-team-size<br>
 	1378_replace-employee-id-with-the-unique-identifier<br>
 	1683_invalid-tweets<br>
 	1693_daily-leads-and-partners<br>
