@@ -38,6 +38,11 @@ Here is a mapping to search your problem easily in the folder -
 	2224_minimum-number-of-operations-to-convert-time<br>
 	2225_find-players-with-zero-or-one-losses<br>
 	2226_maximum-candies-allocated-to-k-children<br>
+
+**Weekly Contest 288**<br>
+	2231_largest-number-after-digit-swaps-by-parity<br>
+	2232_minimize-result-by-adding-parentheses-to-expression<br>
+	2233_maximum-product-after-k-increments<br>
 	
 # **Topic Wise Solutions**
 
@@ -66,8 +71,12 @@ Here is a mapping to search your problem easily in the folder -
 	
 ## **LinkedList**<br>
 
+**Easy**<br>
+	21_merge-two-sorted-lists<br>
+
 **Medium**<br>
 	2_add-two-numbers<br>
+	19_remove-nth-node-from-end-of-list<br>
 
 ## **Math**<br>
 
@@ -83,6 +92,7 @@ Here is a mapping to search your problem easily in the folder -
 
 **Easy**<br>
 	14_longest-common-prefix<br>
+	20_valid-parentheses<br>
 	
 **Medium**<br>
 	3_longest-substring-without-repeating-characters<br>
@@ -90,6 +100,7 @@ Here is a mapping to search your problem easily in the folder -
 	6_zigzag-conversion<br>
 	8_string-to-integer-atoi<br>
 	17_letter-combinations-of-a-phone-number<br>
+	22_generate-parentheses<br>
 	
 
 Thanks for taking time to visit my github profile. Any feedbacks are always welcome.
