@@ -51,11 +51,13 @@ Here is a mapping to search your problem easily in the folder -
 **Easy**<br>
 	1_two-sum<br>
 	26_remove-duplicates-from-sorted-array<br>
+	27_remove-element<br>
 	
 **Medium**<br>
 	11_container-with-most-water<br>
 	15_3sum<br>
 	18_4sum<br>
+	31_next-permutation<br>
 	
 **Hard**<br>
 	4_median-of-two-sorted-arrays<br>
@@ -99,6 +101,7 @@ Here is a mapping to search your problem easily in the folder -
 **Easy**<br>
 	14_longest-common-prefix<br>
 	20_valid-parentheses<br>
+	28_implement-strstr<br>
 	
 **Medium**<br>
 	3_longest-substring-without-repeating-characters<br>
@@ -107,6 +110,9 @@ Here is a mapping to search your problem easily in the folder -
 	8_string-to-integer-atoi<br>
 	17_letter-combinations-of-a-phone-number<br>
 	22_generate-parentheses<br>
+	
+**Hard**<br>
+	32_longestValidParentheses<br>
 	
 
 Thanks for taking time to visit my github profile. Any feedbacks are always welcome.
