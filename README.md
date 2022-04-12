@@ -50,6 +50,7 @@ Here is a mapping to search your problem easily in the folder -
 
 **Easy**<br>
 	1_two-sum<br>
+	26_remove-duplicates-from-sorted-array<br>
 	
 **Medium**<br>
 	11_container-with-most-water<br>
@@ -77,6 +78,11 @@ Here is a mapping to search your problem easily in the folder -
 **Medium**<br>
 	2_add-two-numbers<br>
 	19_remove-nth-node-from-end-of-list<br>
+	24_swap-nodes-in-pairs<br>
+	
+**Hard**<br>
+	23_merge-k-sorted-lists<br>
+	25_reverse-nodes-in-k-group<br>
 
 ## **Math**<br>
 
