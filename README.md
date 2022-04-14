@@ -52,12 +52,16 @@ Here is a mapping to search your problem easily in the folder -
 	1_two-sum<br>
 	26_remove-duplicates-from-sorted-array<br>
 	27_remove-element<br>
+	35_search-insert-position<br>
 	
 **Medium**<br>
 	11_container-with-most-water<br>
 	15_3sum<br>
 	18_4sum<br>
 	31_next-permutation<br>
+	33_search-in-rotated-sorted-array<br>
+	34_find-first-and-last-position-of-element-in-sorted-array<br>
+	36_valid-sudoku<br>
 	
 **Hard**<br>
 	4_median-of-two-sorted-arrays<br>
