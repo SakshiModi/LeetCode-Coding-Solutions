@@ -8,7 +8,9 @@ You can find my LeetCode Profile using one of the following details -
 
 I tried to organize my solutions in different categories so that it would be easy for you to find them. The solutions I have posted may not be the optimal solution, so **keeping trying** to code a better one. 
 
-Here is a mapping to search your problem easily in the folder -
+Thanks for taking time to visit my github profile. Any feedbacks are always welcome.
+
+Best Regards,<br>Sakshi
 
 # **LeetCode Contests**
 
@@ -117,8 +119,3 @@ Here is a mapping to search your problem easily in the folder -
 	
 **Hard**<br>
 	32_longestValidParentheses<br>
-	
-
-Thanks for taking time to visit my github profile. Any feedbacks are always welcome.
-
-Best Regards,<br>Sakshi
