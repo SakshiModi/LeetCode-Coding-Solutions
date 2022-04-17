@@ -51,6 +51,10 @@ Best Regards,<br>Sakshi
 	2232_minimize-result-by-adding-parentheses-to-expression<br>
 	2233_maximum-product-after-k-increments<br>
 	
+**Weekly Contest 289**<br>
+	2243_calculate-digit-sum-of-a-string<br>
+	2244_minimum-rounds-to-complete-all-tasks<br>
+	
 # **Topic Wise Solutions**
 
 ## **Array**<br>
