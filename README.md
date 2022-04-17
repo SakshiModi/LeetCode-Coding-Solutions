@@ -23,6 +23,11 @@ Best Regards,<br>Sakshi
 **Biweekly Contest 75**<br>
 	2220_minimum-bit-flips-to-convert-number<br>
 	2221_find-triangular-sum-of-an-array<br>
+	
+**Biweekly Contest 76**<br>
+	2239_find-closest-number-to-zero<br>
+	2240_number-of-ways-to-buy-pens-and-pencils<br>
+	2241_design-an-atm-machine<br>
 
 **Weekly Contest 283**<br>
 	2194_cells-in-a-range-on-an-excel-sheet<br>
