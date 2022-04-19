@@ -73,6 +73,8 @@ Best Regards,<br>Sakshi
 	33_search-in-rotated-sorted-array<br>
 	34_find-first-and-last-position-of-element-in-sorted-array<br>
 	36_valid-sudoku<br>
+	39_combination-sum<br>
+	46_permutations<br>
 	
 **Hard**<br>
 	4_median-of-two-sorted-arrays<br>
@@ -125,6 +127,8 @@ Best Regards,<br>Sakshi
 	8_string-to-integer-atoi<br>
 	17_letter-combinations-of-a-phone-number<br>
 	22_generate-parentheses<br>
+	38_count-and-say<br>
+	43_multiply-strings<br>
 	
 **Hard**<br>
 	32_longestValidParentheses<br>
