@@ -18,9 +18,3 @@ class Solution:
         for i in range(1,n):
             temp=self.findString(temp)
         return temp
-if __name__=="__main__":
-	sol=Solution()
-	n = 1
-	print(sol.countAndSay(n))
-	n = 4
-	print(sol.countAndSay(n))

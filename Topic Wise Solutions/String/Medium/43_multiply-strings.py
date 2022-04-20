@@ -27,6 +27,3 @@ class Solution:
                 flag=i
                 break
         return result[flag:]
-sol=Solution()
-print(sol.multiply("2","3"))
-print(sol.multiply("123","456"))

@@ -75,6 +75,7 @@ Best Regards,<br>Sakshi
 	36_valid-sudoku<br>
 	39_combination-sum<br>
 	46_permutations<br>
+	47_permutations-ii<br>
 	
 **Hard**<br>
 	4_median-of-two-sorted-arrays<br>
@@ -112,6 +113,12 @@ Best Regards,<br>Sakshi
 **Medium**<br>
 	7_reverse-integer<br>
 	12_integer-to-roman<br>
+	50_powx-n<br>
+	
+## **Matrix**<br>
+
+**Medium**<br>
+	48_rotate-image
 
 ## **String**<br>
 
@@ -129,6 +136,7 @@ Best Regards,<br>Sakshi
 	22_generate-parentheses<br>
 	38_count-and-say<br>
 	43_multiply-strings<br>
+	49_group-anagrams<br>
 	
 **Hard**<br>
 	32_longestValidParentheses<br>

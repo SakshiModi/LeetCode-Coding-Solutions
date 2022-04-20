@@ -15,7 +15,3 @@ class Solution:
         ans=[]
         self.findSol(sorted(candidates),target,ans,[],0)
         return ans
-sol=Solution()
-print(sol.combinationSum(candidates = [2,3,6,7], target = 7))
-print(sol.combinationSum(candidates = [2,3,5], target = 8))
-print(sol.combinationSum([2],1))
