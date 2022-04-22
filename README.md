@@ -64,6 +64,7 @@ Best Regards,<br>Sakshi
 	26_remove-duplicates-from-sorted-array<br>
 	27_remove-element<br>
 	35_search-insert-position<br>
+	53_maximum-subarray<br>
 	
 **Medium**<br>
 	11_container-with-most-water<br>
@@ -76,6 +77,8 @@ Best Regards,<br>Sakshi
 	39_combination-sum<br>
 	46_permutations<br>
 	47_permutations-ii<br>
+	55_jump-game<br>
+	56_merge-intervals<br>
 	
 **Hard**<br>
 	4_median-of-two-sorted-arrays<br>
@@ -118,7 +121,8 @@ Best Regards,<br>Sakshi
 ## **Matrix**<br>
 
 **Medium**<br>
-	48_rotate-image
+	48_rotate-image<br>
+	54_spiral-matrix<br>
 
 ## **String**<br>
 
