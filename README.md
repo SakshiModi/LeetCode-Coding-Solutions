@@ -55,6 +55,10 @@ Best Regards,<br>Sakshi
 	2243_calculate-digit-sum-of-a-string<br>
 	2244_minimum-rounds-to-complete-all-tasks<br>
 	
+**Weekly Contest 290**<br>
+	2248_intersection-of-multiple-arrays<br>
+	2249_count-lattice-points-inside-a-circle<br>
+	
 # **Topic Wise Solutions**
 
 ## **Array**<br>
