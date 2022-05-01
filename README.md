@@ -28,6 +28,11 @@ Best Regards,<br>Sakshi
 	2239_find-closest-number-to-zero<br>
 	2240_number-of-ways-to-buy-pens-and-pencils<br>
 	2241_design-an-atm-machine<br>
+	
+**Biweekly Contest 77**<br>
+	2255_count-prefixes-of-a-given-string<br>
+	2256_minimum-average-difference<br>
+	2257_count-unguarded-cells-in-the-grid<br>
 
 **Weekly Contest 283**<br>
 	2194_cells-in-a-range-on-an-excel-sheet<br>
