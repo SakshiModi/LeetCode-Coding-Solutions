@@ -64,6 +64,10 @@ Best Regards,<br>Sakshi
 	2248_intersection-of-multiple-arrays<br>
 	2249_count-lattice-points-inside-a-circle<br>
 	
+**Weekly Contest 291**<br>	
+	2259_remove-digit-from-number-to-maximize-result<br>
+	2260_minimum-consecutive-cards-to-pick-up<br>
+	
 # **Topic Wise Solutions**
 
 ## **Array**<br>
