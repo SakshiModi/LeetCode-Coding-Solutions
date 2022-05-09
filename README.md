@@ -68,6 +68,11 @@ Best Regards,<br>Sakshi
 	2259_remove-digit-from-number-to-maximize-result<br>
 	2260_minimum-consecutive-cards-to-pick-up<br>
 	
+**Weekly Contest 292**<br>	
+	2264_largest-3-same-digit-number-in-string<br>
+	2265_count-nodes-equal-to-average-of-subtree<br>
+	2266_count-number-of-texts<br>
+	
 # **Topic Wise Solutions**
 
 ## **Array**<br>
