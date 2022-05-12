@@ -97,6 +97,7 @@ Best Regards,<br>Sakshi
 	47_permutations-ii<br>
 	55_jump-game<br>
 	56_merge-intervals<br>
+	57_insert-interval<br>
 	
 **Hard**<br>
 	4_median-of-two-sorted-arrays<br>
@@ -120,6 +121,7 @@ Best Regards,<br>Sakshi
 	2_add-two-numbers<br>
 	19_remove-nth-node-from-end-of-list<br>
 	24_swap-nodes-in-pairs<br>
+	61_rotate-list<br>
 	
 **Hard**<br>
 	23_merge-k-sorted-lists<br>
@@ -141,6 +143,7 @@ Best Regards,<br>Sakshi
 **Medium**<br>
 	48_rotate-image<br>
 	54_spiral-matrix<br>
+	59_spiral-matrix-ii<br>
 
 ## **String**<br>
 
@@ -148,6 +151,7 @@ Best Regards,<br>Sakshi
 	14_longest-common-prefix<br>
 	20_valid-parentheses<br>
 	28_implement-strstr<br>
+	58_length-of-last-word<br>
 	
 **Medium**<br>
 	3_longest-substring-without-repeating-characters<br>
