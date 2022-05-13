@@ -83,6 +83,7 @@ Best Regards,<br>Sakshi
 	27_remove-element<br>
 	35_search-insert-position<br>
 	53_maximum-subarray<br>
+	66_plus-one<br>
 	
 **Medium**<br>
 	11_container-with-most-water<br>
@@ -144,6 +145,9 @@ Best Regards,<br>Sakshi
 	48_rotate-image<br>
 	54_spiral-matrix<br>
 	59_spiral-matrix-ii<br>
+	62_unique-paths<br>
+	63_unique-paths-ii<br>
+	64_minimum-path-sum<br>
 
 ## **String**<br>
 
