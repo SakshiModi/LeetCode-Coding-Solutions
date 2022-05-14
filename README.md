@@ -33,6 +33,11 @@ Best Regards,<br>Sakshi
 	2255_count-prefixes-of-a-given-string<br>
 	2256_minimum-average-difference<br>
 	2257_count-unguarded-cells-in-the-grid<br>
+	
+**Biweekly Contest 78**<br>
+	2269_find-the-k-beauty-of-a-number<br>
+	2270_number-of-ways-to-split-array<br>
+	2271_maximum-white-tiles-covered-by-a-carpet<br>
 
 **Weekly Contest 283**<br>
 	2194_cells-in-a-range-on-an-excel-sheet<br>
