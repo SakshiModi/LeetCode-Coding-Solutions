@@ -78,6 +78,10 @@ Best Regards,<br>Sakshi
 	2265_count-nodes-equal-to-average-of-subtree<br>
 	2266_count-number-of-texts<br>
 	
+**Weekly Contest 293**<br>
+	2273_find-resultant-array-after-removing-anagrams<br>
+	2274_maximum-consecutive-floors-without-special-floors<br>
+	
 # **Topic Wise Solutions**
 
 ## **Array**<br>
