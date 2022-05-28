@@ -82,6 +82,11 @@ Best Regards,<br>Sakshi
 	2273_find-resultant-array-after-removing-anagrams<br>
 	2274_maximum-consecutive-floors-without-special-floors<br>
 	
+**Weekly Contest 294**<br>
+	2278_percentage-of-letter-in-string<br>
+	2279_maximum-bags-with-full-capacity-of-rocks<br>
+	2280_minimum-lines-to-represent-a-line-chart<br>
+	
 # **Topic Wise Solutions**
 
 ## **Array**<br>
