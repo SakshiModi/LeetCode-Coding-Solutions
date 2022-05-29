@@ -38,6 +38,11 @@ Best Regards,<br>Sakshi
 	2269_find-the-k-beauty-of-a-number<br>
 	2270_number-of-ways-to-split-array<br>
 	2271_maximum-white-tiles-covered-by-a-carpet<br>
+	
+**Biweekly Contest 79**<br>	
+	2283_check-if-number-has-equal-digit-count-and-digit-value<br>
+	2284_sender-with-largest-word-count<br>
+	2285_maximum-total-importance-of-roads<br>
 
 **Weekly Contest 283**<br>
 	2194_cells-in-a-range-on-an-excel-sheet<br>
