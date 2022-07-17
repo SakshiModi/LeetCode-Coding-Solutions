@@ -91,6 +91,12 @@ Best Regards,<br>Sakshi
 	2278_percentage-of-letter-in-string<br>
 	2279_maximum-bags-with-full-capacity-of-rocks<br>
 	2280_minimum-lines-to-represent-a-line-chart<br>
+
+**Weekly Contest 302**<br>
+	2341_maximum-number-of-pairs-in-array<br>
+	2342_max-sum-of-a-pair-with-equal-sum-of-digits<br>
+	2343_query-kth-smallest-trimmed-number<br>
+	2344_minimum-deletions-to-make-array-divisible<br>
 	
 # **Topic Wise Solutions**
 
