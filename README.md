@@ -14,11 +14,31 @@ Best Regards,<br>Sakshi
 
 # **LeetCode Contests**
 
+## **Biweekly Contests**<br>
+
+**Biweekly Contest 70**<br>
+	2144_minimum-cost-of-buying-candies-with-discount<br>
+	2147_number-of-ways-to-divide-a-long-corridor<br>
+	
+**Biweekly Contest 71**<br>
+	2160_minimum-sum-of-four-digit-number-after-splitting-digits<br>
+	2161_partition-array-according-to-given-pivot<br>
+	2162_minimum-cost-to-set-cooking-time<br>
+	
 **Biweekly Contest 72**<br>
-	2176_count-equal-and-divisible-pairs-in-an-array.py<br>
+	2176_count-equal-and-divisible-pairs-in-an-array<br>
 	2177_find-three-consecutive-integers-that-sum-to-a-given-number<br>
 	2178_maximum-split-of-positive-even-integers<br>
 	2179_count-good-triplets-in-an-array<br>
+
+**Biweekly Contest 73**<br>	
+	2190_most-frequent-number-following-key-in-an-array<br>
+	2191_sort-the-jumbled-numbers<br>
+	
+**Biweekly Contest 74**<br>	
+	2206_divide-array-into-equal-pairs<br>
+	2207_maximize-number-of-subsequences-in-a-string<br>
+	2208_minimum-operations-to-halve-array-sum<br>
 	
 **Biweekly Contest 75**<br>
 	2220_minimum-bit-flips-to-convert-number<br>
@@ -43,6 +63,30 @@ Best Regards,<br>Sakshi
 	2283_check-if-number-has-equal-digit-count-and-digit-value<br>
 	2284_sender-with-largest-word-count<br>
 	2285_maximum-total-importance-of-roads<br>
+	
+**Biweekly Contest 80**<br>	
+	2299_strong-password-checker-ii<br>
+	2300_successful-pairs-of-spells-and-potions<br>
+	
+**Biweekly Contest 81**<br>	
+	2315_count-asterisks<br>
+	2316_count-unreachable-pairs-of-nodes-in-an-undirected-graph<br>
+	2317_maximum-xor-after-operations<br>
+
+**Biweekly Contest 82**<br>	
+	2331_evaluate-boolean-binary-tree<br>
+	2332_the-latest-time-to-catch-a-bus<br>
+
+**Biweekly Contest 83**<br>	
+	2347_best-poker-hand<br>
+	2348_number-of-zero-filled-subarrays<br>
+	2349_design-a-number-container-system<br>
+
+**Biweekly Contest 84**<br>	
+	2363_merge-similar-items<br>
+	2365_task-scheduler-ii<br>
+
+## **Weekly Contests**<br>
 
 **Weekly Contest 283**<br>
 	2194_cells-in-a-range-on-an-excel-sheet<br>
