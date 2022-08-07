@@ -88,6 +88,35 @@ Best Regards,<br>Sakshi
 
 ## **Weekly Contests**<br>
 
+**Weekly Contest 276**<br>
+	2138_divide-a-string-into-groups-of-size-k<br>
+	2139_minimum-moves-to-reach-target-score<br>
+
+**Weekly Contest 277**<br>
+	2148_count-elements-with-strictly-smaller-and-greater-elements<br>
+	2149_rearrange-array-elements-by-sign<br>
+	2150_find-all-lonely-numbers-in-the-array<br>
+	
+**Weekly Contest 278**<br>
+	2154_keep-multiplying-found-values-by-two<br>
+	2155_all-divisions-with-the-highest-score-of-a-binary-array<br>
+
+**Weekly Contest 279**<br>
+	2164_sort-even-and-odd-indices-independently<br>
+	2165_smallest-value-of-the-rearranged-number<br>
+	2166_design-bitset<br>
+
+**Weekly Contest 280**<br>
+	2169_count-operations-to-obtain-zero<br>
+
+**Weekly Contest 281**<br>
+	2180_count-operations-to-obtain-zero<br>
+	2181_merge-nodes-in-between-zeros<br>
+
+**Weekly Contest 282**<br>
+	2185_counting-words-with-a-given-prefix<br>
+	2186_minimum-number-of-steps-to-make-two-strings-anagram-ii<br>
+
 **Weekly Contest 283**<br>
 	2194_cells-in-a-range-on-an-excel-sheet<br>
 	2195_append-k-integers-with-minimal-sum<br>
