@@ -85,7 +85,17 @@ Best Regards,<br>Sakshi
 **Biweekly Contest 84**<br>	
 	2363_merge-similar-items<br>
 	2365_task-scheduler-ii<br>
-
+	
+**Biweekly Contest 85**<br>
+	2379_minimum-recolors-to-get-k-consecutive-black-blocks<br>
+	2380_time-needed-to-rearrange-a-binary-string<br>
+	2381_shifting-letters-ii<br>
+	
+**Biweekly Contest 86**<br>
+	2395_find-subarrays-with-equal-sum<br>
+	2396_strictly-palindromic-number<br>
+	2397_maximum-rows-covered-by-columns<br>
+	
 ## **Weekly Contests**<br>
 
 **Weekly Contest 276**<br>
